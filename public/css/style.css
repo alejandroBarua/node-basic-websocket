@@ -1,0 +1,15 @@
+.colorMessage {
+  width: 30px;
+  height: 30px;
+  position: relative;
+  top: 20px;
+}
+
+.nameMessage {
+  position: relative;
+  top: 10px;
+}
+
+/* .opacity {
+  transition: opacity 0.5s ease;
+} */
